@@ -1,1 +1,2 @@
 # JavaFSE-DeepSkilling
+This repository contains my hands-on exercises and project solutions as part of the Digital Nurture 4.0 Deep Skilling Program – Java FSE track. It includes solutions aligned with weekly modules covering key Java full-stack skills such as Design Patterns, Data Structures, Spring Framework, PL/SQL, Microservices, REST APIs, Testing, Logging, DevOps, Frontend frameworks, and Cloud fundamentals.
